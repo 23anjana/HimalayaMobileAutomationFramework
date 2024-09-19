@@ -21,6 +21,9 @@ Feature: Validate Wishlist functionality of Himalaya
     Then verify the product is removed from wishList
 
 
+    
+
+
 
 
 
